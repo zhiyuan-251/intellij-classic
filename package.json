@@ -16,10 +16,10 @@
         "uiTheme": "vs",
         "path": "./themes/Intellij Classic-color-theme.json"
       }
-    ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zhiyuan-251/intellij-classic"
-    }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhiyuan-251/intellij-classic.git"
   }
 }
