@@ -1,0 +1,21 @@
+{
+  "name": "intellij-classic",
+  "displayName": "Intellij Classic",
+  "description": "From Redpanda-cpp",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Intellij Classic",
+        "uiTheme": "vs",
+        "path": "./themes/Intellij Classic-color-theme.json"
+      }
+    ]
+  }
+}
