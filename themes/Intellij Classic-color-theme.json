@@ -1,6 +1,10 @@
 {
 	"colors": {
-		"editorGutter.background": "#f0f0f0",
+		"activityBar.background": "#dddddd",
+		"activityBar.inactiveForeground": "#383838",
+		"activityBar.foreground": "#000000",
+		"activityBarBadge.background": "#007d17",
+		"editorGutter.background": "#ffffff",
 		"editorLineNumber.activeForeground": "#5500ff",
 		"editorLineNumber.foreground": "#004200",
 		"editor.background": "#ffffff",
